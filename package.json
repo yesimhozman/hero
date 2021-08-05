@@ -1,0 +1,22 @@
+{
+  "name": "animated-slider-forked",
+  "version": "0.0.0",
+  "description": "https://github.com/erichbehrens/react-animated-slider",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react-animated-slider": "latest",
+    "react": "latest",
+    "normalize.css": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
